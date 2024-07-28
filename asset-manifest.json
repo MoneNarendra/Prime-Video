@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Prime-Video/static/css/main.a2bb9d23.chunk.css",
+    "main.js": "/Prime-Video/static/js/main.0b17eb74.chunk.js",
+    "main.js.map": "/Prime-Video/static/js/main.0b17eb74.chunk.js.map",
+    "runtime-main.js": "/Prime-Video/static/js/runtime-main.2c899c12.js",
+    "runtime-main.js.map": "/Prime-Video/static/js/runtime-main.2c899c12.js.map",
+    "static/css/2.e7abd204.chunk.css": "/Prime-Video/static/css/2.e7abd204.chunk.css",
+    "static/js/2.2b09061a.chunk.js": "/Prime-Video/static/js/2.2b09061a.chunk.js",
+    "static/js/2.2b09061a.chunk.js.map": "/Prime-Video/static/js/2.2b09061a.chunk.js.map",
+    "index.html": "/Prime-Video/index.html",
+    "static/css/2.e7abd204.chunk.css.map": "/Prime-Video/static/css/2.e7abd204.chunk.css.map",
+    "static/css/main.a2bb9d23.chunk.css.map": "/Prime-Video/static/css/main.a2bb9d23.chunk.css.map",
+    "static/js/2.2b09061a.chunk.js.LICENSE.txt": "/Prime-Video/static/js/2.2b09061a.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Prime-Video/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c899c12.js",
+    "static/css/2.e7abd204.chunk.css",
+    "static/js/2.2b09061a.chunk.js",
+    "static/css/main.a2bb9d23.chunk.css",
+    "static/js/main.0b17eb74.chunk.js"
+  ]
+}
