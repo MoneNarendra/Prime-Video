@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "homepage": "https://monenarendra.github.io/Prime-Video/",
   "engines": {
-    "node": "^10.13 || 12 || 14 || 15",
+    "node": "^10.13 || 12 || 14 || 15 || 20",
     "npm": ">=6"
   },
   "dependencies": {
